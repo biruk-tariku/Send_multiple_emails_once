@@ -1,4 +1,4 @@
-# Send_multiple_email_once
+# Send_multiple_email_once_using_python
 
 a Python script that uses the `smtplib` library to send an email via a Gmail SMTP server. Here's an explanation of what the code does:
 
